@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/beijing">
+        <file>tubiao.ico</file>
+        <file>barrier.png</file>
+        <file>yuanjiaobiaoti.png</file>
+    </qresource>
+</RCC>
